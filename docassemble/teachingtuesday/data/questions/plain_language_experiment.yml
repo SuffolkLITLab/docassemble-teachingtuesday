@@ -1,0 +1,10 @@
+---
+mandatory: True
+question: |
+  Plain Language Fixes
+subquestion: |
+  Look at the [example on this page](https://plainlanguage.gov/examples/before-and-after/wordiness/). Change the text below to make it more readable.
+  
+  If the location of the land is in a state other than the state in which the tribe’s reservation is located, the tribe’s justification of anticipated benefits from the acquisition will be subject to greater scrutiny.
+  
+  
